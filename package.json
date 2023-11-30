@@ -1,8 +1,8 @@
 {
   "name": "web-component-amazing-chart",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "Gilad Shohat",
-  "description": "Lightweight Stock line chartπ",
+  "description": "Lightweight Stock line chart",
   "homepage": "https://github.com/gshohat/web-component-amazing-chart#readme",
   "license": "MIT",
   "main": "./dist/amazing-chart.umd.js",

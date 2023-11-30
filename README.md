@@ -2,7 +2,7 @@
 
 ![NPM License](https://img.shields.io/npm/l/web-component-amazing-chart)
 
-**Lightweight** stock line chart **< 10k** 😎 <br>
+**Lightweight** stock line chart **< 15k** 😎 <br>
 Compatible with React, Vue, Angular & other frameworks.
 Optional animation.
 
