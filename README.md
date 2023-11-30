@@ -14,7 +14,7 @@ Optional animation.
 
 main.js
 ```
-import {AmazingChart} from "@/web-components/AmazingChart/AmazingChart";
+import AmazingChart from "web-component-amazing-chart";
 
 customElements.define('amazing-chart', AmazingChart);
 ```
