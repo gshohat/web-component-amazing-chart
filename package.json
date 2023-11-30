@@ -1,0 +1,49 @@
+{
+  "name": "web-component-amazing-chart",
+  "version": "1.0.2",
+  "author": "Gilad Shohat",
+  "description": "Lightweight Stock line chartπ",
+  "homepage": "https://github.com/gshohat/web-component-amazing-chart#readme",
+  "license": "MIT",
+  "main": "./dist/amazing-chart.umd.js",
+  "module": "./dist/amazing-chart.es.js",
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    ".": {
+      "import": "./dist/amazing-chart.es.js",
+      "require": "./dist/amazing-chart.umd.js"
+    },
+    "./dist/style.css": "./dist/style.css"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "path": "^0.12.7",
+    "vite": "^4.4.6"
+  },
+  "keywords": [
+    "vue",
+    "react",
+    "angular",
+    "cross framework",
+    "web component",
+    "component",
+    "customizable",
+    "lightweight",
+    "front-end",
+    "vanilla",
+    "fintech",
+    "finance",
+    "chart",
+    "stock",
+    "line"
+  ]
+}
+
+
