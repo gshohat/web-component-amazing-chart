@@ -6,6 +6,8 @@
 Compatible with React, Vue, Angular & other frameworks.
 Optional animation.
 
+![Uploading amazing-chart.gif…]()
+
 ## Vue usage
 
 `npm i web-component-amazing-chart`
